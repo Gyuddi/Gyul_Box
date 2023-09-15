@@ -6,7 +6,7 @@
 - 배포 링크 : https://team-poject-cisibx65a-nakjun12.vercel.app
 (임시)
 - 서버 배포 링크 : 준비중
-- 프로젝트 wiki 바로가기 : 준비중
+- 서버 API : https://documenter.getpostman.com/view/23682640/2s93Y3w1ff#9f7a8583-bf34-4c88-a442-22a69fb58f4c
 ## **🍊 LOGO 🍊**
 
 ## **✨Feature✨**
